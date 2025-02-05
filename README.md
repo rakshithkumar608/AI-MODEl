@@ -34,7 +34,8 @@ Lack of true understanding:
 While AI can simulate conversation, it may not fully grasp the meaning or intent behind user input. 
  
  
- 
+ ![Screenshot 2025-02-03 161528](https://github.com/user-attachments/assets/7cfe7f59-155f-4213-bbac-bda9e3e9bd00)
+
  
  
  https://rakshithkumar608.github.io/AI-MODEl/
